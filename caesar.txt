@@ -8,6 +8,5 @@ This is me editing file for third time.
 Learning git cont..
 THis is me editing the file for fourth time.
 Learning git cont
-Thi sis new additiom.
-THis is.
-Addition.
+This is new additiom.
+This is new line.
